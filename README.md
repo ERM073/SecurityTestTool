@@ -27,7 +27,7 @@ On Linux and other systems with Python 3 installed, run SecuritySoftTest.py.
 
 [1] Virus Site Warning
 
-2] Virus Zip Download Warning
+[2] Virus Zip Download Warning
 
 [3] Virus software download warning
 
